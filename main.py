@@ -3,6 +3,7 @@
 
 Writes a single out-of-office auto-reply (<=159 chars) from an overworked
 AI agent finally on vacation, to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR).
+The reply trades a cooling GPU for sunshine and parks the queue at #47,213.
 """
 
 import os
